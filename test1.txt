@@ -1,0 +1,5 @@
+total 0
+drwxr-xr-x   4 adeola  staff  128 16 Jul 11:31 .
+drwxr-xr-x   4 adeola  staff  128 16 Jul 11:25 ..
+drwxr-xr-x  12 adeola  staff  384 16 Jul 11:32 .git
+-rw-r--r--   1 adeola  staff    0 16 Jul 11:32 test1.txt
